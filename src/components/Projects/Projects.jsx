@@ -19,7 +19,7 @@ function Projects() {
       description: 'Weather  checker.',
       image: Weather,
       demo: 'https://ch4kkapatpr.github.io/Weather-app/index.html',
-      code: 'https://github.com/https://github.com/JessadaInta?tab=repositoriesyourname/ecommerce',
+      code: 'https://github.com/ch4kkapatPR/mini-ecommerce-collaboration',
     },
     {
       title: 'Portfolio Website',
